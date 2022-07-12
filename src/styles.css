@@ -126,7 +126,7 @@ main{
     border-radius: 3px;
 }
 .input--checkbox:checked{
-    background-color: #8A0000);
+    background-color: #8A0000;
 }
 .input--checkbox:checked::after{
     content:"";
